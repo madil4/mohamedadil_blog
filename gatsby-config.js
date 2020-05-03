@@ -29,6 +29,9 @@ module.exports = {
         ],
         externalLinks: [
           {
+            name: `Twitter`,
+            url: `https://twitter.com/mohd_adil4`,
+          },          {
             name: `LinkedIn`,
             url: `https://www.linkedin.com/in/mohamed-adil-a7691338/`,
           }

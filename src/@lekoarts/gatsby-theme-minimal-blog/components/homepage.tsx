@@ -35,7 +35,6 @@ const Homepage = ({ posts }: PostsProps) => {
     <Layout>
       <section sx={{ mb: [5, 6, 7], p: { fontSize: [1, 2, 3], mt: 2 } }}>
         <Hero />
-        <EmailListForm />
       </section>
       <Title text="Latest Posts">
         <Link to={replaceSlashes(`/${basePath}/${blogPath}`)}>Read all posts</Link>
