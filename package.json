@@ -1,34 +1,40 @@
 {
+  "name": "awatif",
+  "version": "0.0.0",
   "private": true,
-  "name": "minimal-blog",
-  "description": "Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.",
-  "version": "1.0.7",
-  "author": "LekoArts <hello@lekoarts.de>",
-  "license": "MIT",
-  "starter-name": "gatsby-starter-minimal-blog",
   "scripts": {
-    "build": "gatsby build",
-    "develop": "gatsby develop",
-    "develop:cypress": "cross-env CYPRESS_SUPPORT=y yarn develop",
-    "build:cypress": "cross-env CYPRESS_SUPPORT=y yarn build",
-    "start": "gatsby develop",
-    "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "docusaurus": "docusaurus",
+    "start": "docusaurus start",
+    "build": "docusaurus build",
+    "swizzle": "docusaurus swizzle",
+    "deploy": "docusaurus deploy",
+    "clear": "docusaurus clear",
+    "serve": "docusaurus serve",
+    "write-translations": "docusaurus write-translations",
+    "write-heading-ids": "docusaurus write-heading-ids"
   },
   "dependencies": {
-    "@lekoarts/gatsby-theme-minimal-blog": "^2.2.1",
-    "disqus-react": "^1.0.7",
-    "gatsby": "^2.19.43",
-    "gatsby-plugin-google-analytics": "^2.1.37",
-    "gatsby-plugin-manifest": "^2.2.47",
-    "gatsby-plugin-netlify": "^2.1.34",
-    "gatsby-plugin-offline": "^2.2.4",
-    "gatsby-plugin-sitemap": "^2.2.29",
-    "react": "^16.9.0",
-    "react-dom": "^16.9.0"
+    "@docusaurus/core": "2.0.0-beta.9",
+    "@docusaurus/preset-classic": "2.0.0-beta.9",
+    "@mdx-js/react": "^1.6.21",
+    "@svgr/webpack": "^5.5.0",
+    "clsx": "^1.1.1",
+    "file-loader": "^6.2.0",
+    "prism-react-renderer": "^1.2.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "url-loader": "^4.1.1"
   },
-  "devDependencies": {
-    "cross-env": "^5.2.0",
-    "gatsby-plugin-webpack-bundle-analyser-v2": "^1.1.8"
+  "browserslist": {
+    "production": [
+      ">0.5%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }

@@ -1,0 +1,25 @@
+{
+  "permalink": "/the-nasty-drug",
+  "source": "@site/blog/the-nasty-drug/Index.mdx",
+  "title": "The nasty drug",
+  "description": "Due to the imposed quarantine, I had to develop new routines in my life. Day 1, I was super optimistic, cooked a delicious meal, biked around new places, and so on. Day 2, I was surprised that I had to repeat what I did yesterday with slight changes. Day 3, doing nothing instead of laying in bed, thinking about my purpose in life!.",
+  "date": "2020-04-27T00:00:00.000Z",
+  "formattedDate": "April 27, 2020",
+  "tags": [
+    {
+      "label": "General",
+      "permalink": "/tags/general"
+    }
+  ],
+  "readingTime": 1.02,
+  "truncated": false,
+  "authors": [],
+  "prevItem": {
+    "title": "On happiness",
+    "permalink": "/on-happiness"
+  },
+  "nextItem": {
+    "title": "How I run my life like a business",
+    "permalink": "/how-I-run-my-life-like-a-business"
+  }
+}

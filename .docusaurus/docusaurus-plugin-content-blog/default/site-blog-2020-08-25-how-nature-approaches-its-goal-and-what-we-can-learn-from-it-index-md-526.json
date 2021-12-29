@@ -1,0 +1,20 @@
+{
+  "permalink": "/how-nature-approaches-its-goal-and-what-we-can-learn-from-it",
+  "source": "@site/blog/2020-08-25-how-nature-approaches-its-goal-and-what-we-can-learn-from-it/Index.md",
+  "title": "How nature approaches its goal and what we can learn from it",
+  "description": "For the past 4 years, I have been busy understanding how numerical simulations of physical phenomena works. Surprisingly, most of these simulations share the concept of minimizing energy. It turns out the nature is efficient (or lazy!) when performing tasks such as moving or deforming. What I want to discuss here is the actual steps that are used for the algorithms behind these simulations and what we can learn from them to approach our goals.",
+  "date": "2020-08-25T00:00:00.000Z",
+  "formattedDate": "August 25, 2020",
+  "tags": [],
+  "readingTime": 1.315,
+  "truncated": false,
+  "authors": [],
+  "prevItem": {
+    "title": "How being open-minded can help us grow",
+    "permalink": "/how-being-open-minded-can-help-us-grow"
+  },
+  "nextItem": {
+    "title": "What hurts them can hurt us",
+    "permalink": "/what-hurts-them-can-hurt-us"
+  }
+}

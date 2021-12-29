@@ -1,0 +1,25 @@
+{
+  "permalink": "/how-I-master-my-daily-routine",
+  "source": "@site/blog/how-I-master-my-daily-routine/Index.md",
+  "title": "How I master my daily routine",
+  "description": "There are a lot of things and habits that I wanted to do but struggled to find the time or keep myself motivated, like going to the gym or finishing a book. Recently, I developed a trick that worked for me and might work for you.",
+  "date": "2020-05-18T00:00:00.000Z",
+  "formattedDate": "May 18, 2020",
+  "tags": [
+    {
+      "label": "General",
+      "permalink": "/tags/general"
+    }
+  ],
+  "readingTime": 1.19,
+  "truncated": false,
+  "authors": [],
+  "prevItem": {
+    "title": "What is life",
+    "permalink": "/what-is-life"
+  },
+  "nextItem": {
+    "title": "On happiness",
+    "permalink": "/on-happiness"
+  }
+}

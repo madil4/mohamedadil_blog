@@ -1,0 +1,28 @@
+{
+  "permalink": "/the-first-step-toward-interactive-simulation",
+  "source": "@site/blog/2020-11-25-the-first-step-toward-interactive-simulation/index.md",
+  "title": "The first step toward interactive simulation",
+  "description": "Docusaurus Plushie",
+  "date": "2020-11-25T00:00:00.000Z",
+  "formattedDate": "November 25, 2020",
+  "tags": [],
+  "readingTime": 0.57,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Mohamed Adil",
+      "title": "Software developer",
+      "url": "https://www.linkedin.com/in/mohamed-adil4/",
+      "imageURL": "/img/mohamed-profile.jpeg",
+      "key": "madil"
+    }
+  ],
+  "prevItem": {
+    "title": "When simulations explode",
+    "permalink": "/when-simulations-explode"
+  },
+  "nextItem": {
+    "title": "It is not as glorious as you think",
+    "permalink": "/It-is-not-as-glorious-as-you-think"
+  }
+}

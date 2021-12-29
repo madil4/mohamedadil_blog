@@ -1,0 +1,28 @@
+{
+  "permalink": "/when-simulations-explode",
+  "source": "@site/blog/2020-12-02-when-simulations-explode/index.md",
+  "title": "When simulations explode",
+  "description": "Docusaurus Plushie",
+  "date": "2020-12-02T00:00:00.000Z",
+  "formattedDate": "December 2, 2020",
+  "tags": [],
+  "readingTime": 0.385,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Mohamed Adil",
+      "title": "Software developer",
+      "url": "https://www.linkedin.com/in/mohamed-adil4/",
+      "imageURL": "/img/mohamed-profile.jpeg",
+      "key": "madil"
+    }
+  ],
+  "prevItem": {
+    "title": "Linear FEM vs Non-Linear FEM",
+    "permalink": "/linear-fem-vs-non-linear-fem"
+  },
+  "nextItem": {
+    "title": "The first step toward interactive simulation",
+    "permalink": "/the-first-step-toward-interactive-simulation"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "permalink": "/on-mistakes",
+  "source": "@site/blog/on-mistakes/index.mdx",
+  "title": "On mistakes",
+  "description": "We as humans make mistakes; the life around us is so complex, that includes our own emotions. It is fine to make mistakes but what is not is these two things. First, sometimes, when we do something we don't think about what we did, so we keep making the same mistakes without even realizing (the worst case). The second thing, If we realize that there is something wrong with our behavior, which is sometimes very difficult to spot (blaming ourselves), we tend to not do something about it because of our ego.",
+  "date": "2020-03-24T00:00:00.000Z",
+  "formattedDate": "March 24, 2020",
+  "tags": [
+    {
+      "label": "General",
+      "permalink": "/tags/general"
+    }
+  ],
+  "readingTime": 0.61,
+  "truncated": false,
+  "authors": [],
+  "prevItem": {
+    "title": "How I run my life like a business",
+    "permalink": "/how-I-run-my-life-like-a-business"
+  },
+  "nextItem": {
+    "title": "How not to take things personally?",
+    "permalink": "/how-not-to-take-things-personally"
+  }
+}

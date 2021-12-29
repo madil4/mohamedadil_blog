@@ -1,0 +1,25 @@
+{
+  "permalink": "/what-is-life",
+  "source": "@site/blog/what-is-life/index.md",
+  "title": "What is life",
+  "description": "Life for some is about:",
+  "date": "2020-05-26T00:00:00.000Z",
+  "formattedDate": "May 26, 2020",
+  "tags": [
+    {
+      "label": "General",
+      "permalink": "/tags/general"
+    }
+  ],
+  "readingTime": 0.625,
+  "truncated": false,
+  "authors": [],
+  "prevItem": {
+    "title": "What hurts them can hurt us",
+    "permalink": "/what-hurts-them-can-hurt-us"
+  },
+  "nextItem": {
+    "title": "How I master my daily routine",
+    "permalink": "/how-I-master-my-daily-routine"
+  }
+}

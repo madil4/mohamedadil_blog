@@ -1,0 +1,28 @@
+{
+  "permalink": "/linear-fem-vs-non-linear-fem",
+  "source": "@site/blog/2020-12-10-linear-fem-vs-non-linear-fem/index.md",
+  "title": "Linear FEM vs Non-Linear FEM",
+  "description": "Docusaurus Plushie",
+  "date": "2020-12-10T00:00:00.000Z",
+  "formattedDate": "December 10, 2020",
+  "tags": [],
+  "readingTime": 0.915,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Mohamed Adil",
+      "title": "Software developer",
+      "url": "https://www.linkedin.com/in/mohamed-adil4/",
+      "imageURL": "/img/mohamed-profile.jpeg",
+      "key": "madil"
+    }
+  ],
+  "prevItem": {
+    "title": "New website for Awatif Engine",
+    "permalink": "/new-website-for-awatif-engine"
+  },
+  "nextItem": {
+    "title": "When simulations explode",
+    "permalink": "/when-simulations-explode"
+  }
+}

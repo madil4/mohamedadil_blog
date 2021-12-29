@@ -1,0 +1,28 @@
+{
+  "permalink": "/new-website-for-awatif-engine",
+  "source": "@site/blog/2020-12-25-new-website-for-awatif-engine/index.md",
+  "title": "New website for Awatif Engine",
+  "description": "Docusaurus Plushie",
+  "date": "2020-12-25T00:00:00.000Z",
+  "formattedDate": "December 25, 2020",
+  "tags": [],
+  "readingTime": 0.375,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Mohamed Adil",
+      "title": "Software developer",
+      "url": "https://www.linkedin.com/in/mohamed-adil4/",
+      "imageURL": "/img/mohamed-profile.jpeg",
+      "key": "madil"
+    }
+  ],
+  "prevItem": {
+    "title": "How to interact with your structure",
+    "permalink": "/how-to-interact-with-your-structure"
+  },
+  "nextItem": {
+    "title": "Linear FEM vs Non-Linear FEM",
+    "permalink": "/linear-fem-vs-non-linear-fem"
+  }
+}
