@@ -27,8 +27,14 @@ export default {
   "themeConfig": {
     "navbar": {
       "title": "Mohamed Adil blog",
-      "hideOnScroll": false,
-      "items": []
+      "items": [
+        {
+          "to": "https://ar.mohamedadil.com",
+          "label": "بالعربي",
+          "position": "right"
+        }
+      ],
+      "hideOnScroll": false
     },
     "footer": {
       "style": "dark",
