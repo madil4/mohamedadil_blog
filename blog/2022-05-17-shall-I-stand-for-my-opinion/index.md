@@ -7,4 +7,4 @@ I always have this dilemma when I’m not sure about something, shall I stand fo
 
 Not forming an opinion reflect a weak personality plus it's boring, however, forming a strong opinion on something that you’re not sure about shows how stupid you are! 
 
-In my opinion, if the situation is not serious, from an opinion, Barcelona lost because they lost Messi, who cares! but if it is a serious situation, ask the opinion of someone who knows better than you, if you can’t, then make one and stick to it until you know better.
+In my opinion, if the situation is not serious, form an opinion, Barcelona lost because they lost Messi, who cares! but if it is a serious situation, ask the opinion of someone who knows better than you, if you can’t, then make one and stick to it until you know better.
