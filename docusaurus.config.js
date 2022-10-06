@@ -31,6 +31,8 @@ const config = {
           path: "./blog",
           routeBasePath: "/",
           showReadingTime: true,
+          blogSidebarTitle: 'All posts',
+          blogSidebarCount: 'ALL',
           // Please change this to your repo.
           // editUrl: "https://github.com/facebook/docusaurus/edit/main/website/blog/",
         },
