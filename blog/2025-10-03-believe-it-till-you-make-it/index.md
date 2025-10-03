@@ -1,5 +1,5 @@
 ---
-title: "Believe it till You Make it"
+title: "Believe it Till You Make it"
 slug: "/believe-it-till-you-make-it"
 ---
 
